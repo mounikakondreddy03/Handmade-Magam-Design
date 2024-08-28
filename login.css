@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.zoFaRaJGOuM2zl4H31zEowHaEK&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    /* scroll: none; */
+    /* margin-top: 50px; */
+    /* margin-bottom: 50px; */
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+form{
+    text-align: center;
+    margin-top: 25%;
+    margin-bottom: 25%;
+}
+
+div{
+    background-size: contain;
+    width: 100vw;
+    height: 100vh;
+}
